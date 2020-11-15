@@ -1,6 +1,6 @@
-# MCP4141 based digital potentiometer
+# MUSES72320
 
-> MCP4141 and ATtiny13 based digital potentiometer to replace an
+> MUSES72320 and ATtiny13 based digital potentiometer to replace an
 > existing 3 terminal analog potentiometers.
 
 ![Breadboard View](https://github.com/dilshan/mcp4141-digital-pot/raw/master/resources/digipot_breadboard.jpg)
